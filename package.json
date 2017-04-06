@@ -37,7 +37,8 @@
     "systemjs": "0.19.40",
     "core-js": "^2.4.1",
     "rxjs": "5.0.1",
-    "zone.js": "^0.8.4"
+    "zone.js": "^0.8.4",
+    "express": "4.15.2"
   },
   "devDependencies": {
     "concurrently": "^3.2.0",
@@ -57,7 +58,9 @@
     "rimraf": "^2.5.4",
 
     "@types/node": "^6.0.46",
-    "@types/jasmine": "2.5.36"
+    "@types/jasmine": "2.5.36",
+    "gulp": "3.9.1",
+    "gulp-sourcemaps": "2.5.1"
   },
   "repository": {}
 }
